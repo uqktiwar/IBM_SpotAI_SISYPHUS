@@ -91,10 +91,13 @@ We used the IBM Auto AI Service to test multiple machine learning algorithms to 
 **Model URL:** https://us-south.ml.cloud.ibm.com/ml/v4/deployments/f9b11549-b397-4e77-aa21-d8eaff21c64c/predictions?version=2021-08-22
 
 **Model Evaluation** The accuracy score for the model was 0.835
+
 **ROC Curve**
+
 ![ROC Curve](https://raw.githubusercontent.com/uqktiwar/IBM_SpotAI_SISYPHUS/main/ModelROC.png)
 
 **Confusion Matrix**
+
 ![Confusion Matrix](https://raw.githubusercontent.com/uqktiwar/IBM_SpotAI_SISYPHUS/main/ConfusionMatrix.png)
 
 It is evident above that the model can be improved further, which we are continuing work on. 
@@ -134,7 +137,7 @@ Our final submission for this challenge is a Flask based webapp that uses the ab
 
 ![APP INPUT PAGE](https://raw.githubusercontent.com/uqktiwar/IBM_SpotAI_SISYPHUS/main/inpPage.png)
 
-Please adjust the values for each variable using the up/down arrow buttons before submitting
+Before submitting the form, please adjust the values for each variable using the up/down arrow buttons that appear when you hover over an input field 
 
 6. The output page should look as follows: 
 
